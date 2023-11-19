@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  /* background-color: black;
+  color: white; */
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+  flex-direction: column;
+}
+
+.array-object-textarea{
+  margin-top: 10px;
+}
+
+.visualize-btn{
+  margin-top: 10px;
+}
